@@ -1,7 +1,8 @@
 # 👋 Salut, je suis Alexandre Mbaye NDIAYE !
 
-Développeur Full-Stack passionné par la conception d'applications robustes de bout en bout et étudiant en Master 2 en Génie Logiciel à l'ISI. J'occupe actuellement le poste de Développeur Web et Consultant Sage chez ALS, et je partage également ma passion pour le code en tant que Formateur en Algorithmique et Langage C.
+Développeur Full-Stack passionné par la conception d'applications robustes de bout en bout. J'aime relever des défis techniques et transformer des besoins complexes en solutions logicielles performantes et évolutives.
 
+---
 ### 🚀 Ce que je fais concrètement :
 * **Développement Back-end :** Création d'API RESTful sécurisées avec **Java (Spring Boot)** et **Python (Django/Django REST)**.
 * **Développement Front-end :** Conception d'interfaces dynamiques et réactives avec **React JS**.
